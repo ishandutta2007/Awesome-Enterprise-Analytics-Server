@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Analytics-Server/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Analytics-Server?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Analytics-Server/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Analytics-Server?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Analytics-Server/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Analytics-Server?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Analytics-Server/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Analytics-Server/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -40,7 +40,7 @@ This repository tracks top-tier commercial **SaaS / Hosted Platforms** and commu
   - [SaaS Comparison Table (Ranked by Company Valuation)](#saas-comparison-table-ranked-by-company-valuation)
   - [In-Depth SaaS Platform Profiles](#in-depth-saas-platform-profiles)
 - [🚀 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [Open-Source Solutions Ranked by GitHub Stars](#open-source-solutions-ranked-by-github-stars)
+  - [Open-Source Solutions Ranked by GitHub_Stars](#open-source-solutions-ranked-by-github-stars)
   - [Self-Hosted BI & Visualization Platforms](#self-hosted-bi--visualization-platforms)
   - [Product & Web Analytics Servers](#product--web-analytics-servers)
   - [Headless Semantic Layers & Analytics Middleware](#headless-semantic-layers--analytics-middleware)
@@ -121,111 +121,111 @@ Below is an overview of the industry-leading commercial and hosted enterprise an
 
 ## 🚀 Open-Source GitHub Projects 🌟
 
-### Open-Source Solutions Ranked by GitHub Stars
+### Open-Source Solutions Ranked by GitHub_Stars
 
-The table below lists all curated open-source projects for self-hosted business intelligence, semantic layers, and real-time OLAP servers, **sorted strictly in descending order by GitHub stars**. Each star badge links directly to the respective repository's stargazers page:
+The table below lists all curated open-source projects for self-hosted business intelligence, semantic layers, and real-time OLAP servers, **sorted strictly in descending order by GitHub_Stars**. Each Stars_Badge links directly to the respective repository's stargazers page:
 
-| Rank | Project & Repository | Star Count Badge | Primary Category | License | Core Tech Stack |
+| Rank | Project & Repository | Stars_Count Badge | Primary Category | License | Core Tech Stack |
 | :---: | :--- | :---: | :--- | :--- | :--- |
-| 1 | **[Grafana](https://github.com/grafana/grafana)** | [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Observability & BI Dashboards | AGPL-3.0 | Go, TypeScript, React |
-| 2 | **[Apache Superset](https://github.com/apache/superset)** | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Self-Hosted Enterprise BI | Apache-2.0 | Python, React, Flask, SQLAlchemy |
-| 3 | **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | Columnar OLAP Engine | Apache-2.0 | C++ |
-| 4 | **[Metabase](https://github.com/metabase/metabase)** | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Self-Service BI & Visual Querying | AGPL-3.0 | Clojure, React, JVM |
-| 5 | **[DuckDB](https://github.com/duckdb/duckdb)** | [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | In-Process Analytical Engine | MIT | C++ |
-| 6 | **[PostHog](https://github.com/PostHog/posthog)** | [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Product Analytics Server | MIT / PostHog Comm. | Python, TypeScript, ClickHouse |
-| 7 | **[Umami](https://github.com/umami-software/umami)** | [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) | Privacy-Focused Web Analytics | MIT | Next.js, TypeScript, PostgreSQL |
-| 8 | **[Plausible Analytics](https://github.com/plausible/analytics)** | [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) | Lightweight Analytics Server | AGPL-3.0 | Elixir, Phoenix, ClickHouse |
-| 9 | **[Redash](https://github.com/getredash/redash)** | [![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers) | SQL-Native Visualization | BSD-2-Clause | Python, React, PostgreSQL |
-| 10 | **[DataEase](https://github.com/dataease/dataease)** | [![GitHub stars](https://img.shields.io/github/stars/dataease/dataease?style=social&color=white)](https://github.com/dataease/dataease/stargazers) | No-Code BI & Reporting Server | GPL-3.0 | Java, Spring Boot, Vue.js |
-| 11 | **[Cube](https://github.com/cube-js/cube)** | [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) | Headless Universal Semantic Layer | Apache-2.0 | Rust, TypeScript |
-| 12 | **[Apache Doris](https://github.com/apache/doris)** | [![GitHub stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers) | Real-Time MPP Analytical DB | Apache-2.0 | C++, Java |
-| 13 | **[Apache Druid](https://github.com/apache/druid)** | [![GitHub stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers) | Real-Time Streaming Analytics DB | Apache-2.0 | Java |
-| 14 | **[Trino](https://github.com/trinodb/trino)** | [![GitHub stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers) | Distributed SQL Query Engine | Apache-2.0 | Java |
-| 15 | **[StarRocks](https://github.com/StarRocks/starrocks)** | [![GitHub stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers) | Sub-Second Vectorized OLAP | Apache-2.0 | C++, Java |
-| 16 | **[Evidence](https://github.com/evidence-dev/evidence)** | [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) | Code-Based Markdown BI | MIT | Svelte, Node.js, DuckDB |
-| 17 | **[Apache Zeppelin](https://github.com/apache/zeppelin)** | [![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers) | Collaborative Data Notebook | Apache-2.0 | Java, Scala, Python |
-| 18 | **[Lightdash](https://github.com/lightdash/lightdash)** | [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers) | dbt-Native Warehouse BI | MIT | TypeScript, Node.js, React |
-| 19 | **[Apache Pinot](https://github.com/apache/pinot)** | [![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers) | Real-Time Distributed OLAP | Apache-2.0 | Java |
-| 20 | **[Rill](https://github.com/rilldata/rill)** | [![GitHub stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers) | Fast Operational Dashboards | Apache-2.0 | Go, Svelte, DuckDB |
-| 21 | **[Knowage Server](https://github.com/KnowageLabs/Knowage-Server)** | [![GitHub stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers) | Enterprise Open BI Suite | AGPL-3.0 | Java, Angular |
+| 1 | **[Grafana](https://github.com/grafana/grafana)** | [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Observability & BI Dashboards | AGPL-3.0 | Go, TypeScript, React |
+| 2 | **[Apache Superset](https://github.com/apache/superset)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Self-Hosted Enterprise BI | Apache-2.0 | Python, React, Flask, SQLAlchemy |
+| 3 | **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** | [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | Columnar OLAP Engine | Apache-2.0 | C++ |
+| 4 | **[Metabase](https://github.com/metabase/metabase)** | [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Self-Service BI & Visual Querying | AGPL-3.0 | Clojure, React, JVM |
+| 5 | **[DuckDB](https://github.com/duckdb/duckdb)** | [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | In-Process Analytical Engine | MIT | C++ |
+| 6 | **[PostHog](https://github.com/PostHog/posthog)** | [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Product Analytics Server | MIT / PostHog Comm. | Python, TypeScript, ClickHouse |
+| 7 | **[Umami](https://github.com/umami-software/umami)** | [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) | Privacy-Focused Web Analytics | MIT | Next.js, TypeScript, PostgreSQL |
+| 8 | **[Plausible Analytics](https://github.com/plausible/analytics)** | [![GitHub_Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) | Lightweight Analytics Server | AGPL-3.0 | Elixir, Phoenix, ClickHouse |
+| 9 | **[Redash](https://github.com/getredash/redash)** | [![GitHub_Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers) | SQL-Native Visualization | BSD-2-Clause | Python, React, PostgreSQL |
+| 10 | **[DataEase](https://github.com/dataease/dataease)** | [![GitHub_Stars](https://img.shields.io/github/stars/dataease/dataease?style=social&color=white)](https://github.com/dataease/dataease/stargazers) | No-Code BI & Reporting Server | GPL-3.0 | Java, Spring Boot, Vue.js |
+| 11 | **[Cube](https://github.com/cube-js/cube)** | [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) | Headless Universal Semantic Layer | Apache-2.0 | Rust, TypeScript |
+| 12 | **[Apache Doris](https://github.com/apache/doris)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers) | Real-Time MPP Analytical DB | Apache-2.0 | C++, Java |
+| 13 | **[Apache Druid](https://github.com/apache/druid)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers) | Real-Time Streaming Analytics DB | Apache-2.0 | Java |
+| 14 | **[Trino](https://github.com/trinodb/trino)** | [![GitHub_Stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers) | Distributed SQL Query Engine | Apache-2.0 | Java |
+| 15 | **[StarRocks](https://github.com/StarRocks/starrocks)** | [![GitHub_Stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers) | Sub-Second Vectorized OLAP | Apache-2.0 | C++, Java |
+| 16 | **[Evidence](https://github.com/evidence-dev/evidence)** | [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) | Code-Based Markdown BI | MIT | Svelte, Node.js, DuckDB |
+| 17 | **[Apache Zeppelin](https://github.com/apache/zeppelin)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers) | Collaborative Data Notebook | Apache-2.0 | Java, Scala, Python |
+| 18 | **[Lightdash](https://github.com/lightdash/lightdash)** | [![GitHub_Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers) | dbt-Native Warehouse BI | MIT | TypeScript, Node.js, React |
+| 19 | **[Apache Pinot](https://github.com/apache/pinot)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers) | Real-Time Distributed OLAP | Apache-2.0 | Java |
+| 20 | **[Rill](https://github.com/rilldata/rill)** | [![GitHub_Stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers) | Fast Operational Dashboards | Apache-2.0 | Go, Svelte, DuckDB |
+| 21 | **[Knowage Server](https://github.com/KnowageLabs/Knowage-Server)** | [![GitHub_Stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers) | Enterprise Open BI Suite | AGPL-3.0 | Java, Angular |
 
 ---
 
 ### Self-Hosted BI & Visualization Platforms 📊
 
-- 🔸 **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+- 🔸 **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
   Leading open observability and dashboarding engine. While born in infrastructure metrics, modern Grafana features robust SQL query editors for PostgreSQL, MySQL, ClickHouse, BigQuery, and Snowflake, making it widely deployed for operational BI and executive status displays.
 
-- 🔸 **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+- 🔸 **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
   Top-level Apache Foundation enterprise BI web platform originally engineered at Airbnb. Highlights include a code-free chart builder, deep SQL Lab with autocompletion, lightweight semantic layer, 40+ visualization plugins, and native connectors for 50+ relational/NoSQL backends. Supports row-level security (RLS), dbt model exposures, and guest-token embedded analytics.
 
-- 🔸 **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+- 🔸 **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
   Renowned for exceptional user experience and non-technical accessibility. Features a visual Query Builder, automated dashboard generation (X-Rays), email/Slack alerting, and granular data sandboxing. Deploys via a single JVM container and PostgreSQL database.
 
-- 🔸 **[Redash](https://github.com/getredash/redash)** [![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
+- 🔸 **[Redash](https://github.com/getredash/redash)** [![GitHub_Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
   SQL-first visualization and query collaboration tool. Allows data teams to write raw SQL, visualize query outputs, set automated cron-based data refreshes, and expose live JSON endpoints via REST APIs.
 
-- 🔸 **[DataEase](https://github.com/dataease/dataease)** [![GitHub stars](https://img.shields.io/github/stars/dataease/dataease?style=social&color=white)](https://github.com/dataease/dataease/stargazers)  
+- 🔸 **[DataEase](https://github.com/dataease/dataease)** [![GitHub_Stars](https://img.shields.io/github/stars/dataease/dataease?style=social&color=white)](https://github.com/dataease/dataease/stargazers)  
   Open-source data visualization tool featuring intuitive drag-and-drop report composition. Connects to standard relational engines, OLAP stores, and spreadsheets for zero-code enterprise reporting.
 
-- 🔸 **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
+- 🔸 **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
   "BI as Code" framework that turns Markdown files with embedded SQL blocks into fast, interactive data websites. Compiles to static sites using DuckDB-Wasm for client-side analytical querying.
 
-- 🔸 **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
+- 🔸 **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub_Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
   The native BI frontend for dbt users. Reads your dbt schema files directly as its semantic layer, preventing dual-maintenance of metric logic and compiling queries directly into cloud data warehouses.
 
-- 🔸 **[Rill](https://github.com/rilldata/rill)** [![GitHub stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)  
+- 🔸 **[Rill](https://github.com/rilldata/rill)** [![GitHub_Stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)  
   Fast operational BI tool combining embedded DuckDB and ClickHouse engines. Automatically profiles data schemas, discovers timeseries trends, and renders sub-second dashboards directly from SQL files.
 
-- 🔸 **[Knowage Server](https://github.com/KnowageLabs/Knowage-Server)** [![GitHub stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers)  
+- 🔸 **[Knowage Server](https://github.com/KnowageLabs/Knowage-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/KnowageLabs/Knowage-Server?style=social&color=white)](https://github.com/KnowageLabs/Knowage-Server/stargazers)  
   Complete modular enterprise open-source BI suite built by Engineering Group. Modules span pixel-perfect Enterprise Reporting, Smart Intelligence self-service, Location GIS Intelligence, and R/Python integration.
 
 ---
 
 ### Product & Web Analytics Servers 📈
 
-- 🔸 **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+- 🔸 **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
   All-in-one product analytics suite deployable on private infrastructure. Backed by ClickHouse for real-time funnel calculation, session recording, feature flags, A/B testing, and user cohort analysis.
 
-- 🔸 **[Umami](https://github.com/umami-software/umami)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
+- 🔸 **[Umami](https://github.com/umami-software/umami)** [![GitHub_Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers)  
   Privacy-respecting, lightweight web analytics server with zero cookie requirements. Built on Next.js and Prisma, providing clean API integration and dashboard views.
 
-- 🔸 **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
+- 🔸 **[Plausible Analytics](https://github.com/plausible/analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers)  
   Lightweight and privacy-friendly alternative to Google Analytics. Features an Elixir and ClickHouse backend capable of processing millions of event streams with minimal server footprints.
 
 ---
 
 ### Headless Semantic Layers & Analytics Middleware 🧩
 
-- 🔸 **[Cube](https://github.com/cube-js/cube)** [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
+- 🔸 **[Cube](https://github.com/cube-js/cube)** [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
   Universal semantic layer for building enterprise data applications. Provides centralized metric definitions, automated pre-aggregations, access control, and a SQL API for connecting downstream BI tools (Superset, Tableau, Power BI) without duplicated definitions.
 
-- 🔸 **[Apache Zeppelin](https://github.com/apache/zeppelin)** [![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers)  
+- 🔸 **[Apache Zeppelin](https://github.com/apache/zeppelin)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers)  
   Web-based notebook for interactive data analytics, exploratory querying, and collaborative documentation supporting Apache Spark, Python, SQL, and Scala backends.
 
 ---
 
 ### High-Performance OLAP Engines & Query Fabric ⚡
 
-- 🔸 **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)  
+- 🔸 **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)  
   Ultra-fast open-source columnar database management system for real-time analytical reporting. Generates sub-second responses over trillions of records and powers many modern analytics frontends.
 
-- 🔸 **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)  
+- 🔸 **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)  
   High-performance in-process vectorized SQL OLAP engine. Acts as the "SQLite for analytics", querying Parquet, CSV, Arrow, and Iceberg tables with zero external dependencies.
 
-- 🔸 **[Apache Doris](https://github.com/apache/doris)** [![GitHub stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers)  
+- 🔸 **[Apache Doris](https://github.com/apache/doris)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/doris?style=social&color=white)](https://github.com/apache/doris/stargazers)  
   Massively parallel processing (MPP) analytical database compatible with MySQL wire protocol. Delivers real-time stream ingestion, materialized rollups, and sub-second interactive ad-hoc querying.
 
-- 🔸 **[Apache Druid](https://github.com/apache/druid)** [![GitHub stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers)  
+- 🔸 **[Apache Druid](https://github.com/apache/druid)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers)  
   Distributed real-time analytical database optimized for low-latency streaming and batch events, event-driven applications, and slice-and-dice timeseries dashboards.
 
-- 🔸 **[Trino](https://github.com/trinodb/trino)** [![GitHub stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers)  
+- 🔸 **[Trino](https://github.com/trinodb/trino)** [![GitHub_Stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers)  
   Distributed SQL query engine for federated queries across object stores (S3, GCS, Azure Blob, MinIO), relational databases, and data lakehouses using Apache Iceberg, Delta Lake, or Hive.
 
-- 🔸 **[StarRocks](https://github.com/StarRocks/starrocks)** [![GitHub stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers)  
+- 🔸 **[StarRocks](https://github.com/StarRocks/starrocks)** [![GitHub_Stars](https://img.shields.io/github/stars/StarRocks/starrocks?style=social&color=white)](https://github.com/StarRocks/starrocks/stargazers)  
   Next-generation sub-second OLAP engine with fully vectorized execution, cost-based optimizer (CBO), and real-time materialized views across cloud data lakes.
 
-- 🔸 **[Apache Pinot](https://github.com/apache/pinot)** [![GitHub stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)  
+- 🔸 **[Apache Pinot](https://github.com/apache/pinot)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers)  
   Real-time distributed OLAP datastore designed by LinkedIn and Uber to answer high-throughput analytical queries with millisecond latency for user-facing applications.
 
 ---
@@ -273,7 +273,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, comprehens
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-analytics-tool`).
 3. 📝 **Add or update entries** in `README.md`:
    - Follow the established tabular format for SaaS tools (including specific starting pricing, free tier limits, and company valuation).
-   - For Open-Source additions, include the official repository link, star count badge (`style=social&color=white` linking to the stargazers page), and license.
+   - For Open-Source additions, include the official repository link, Stars_Count badge (`style=social&color=white` linking to the stargazers page), and license.
 4. 🧪 **Ensure all links are live and factual**.
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
